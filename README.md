@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Fardin1011/Fardin1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Intro](./assets/hero.svg?v=1)
 
-Here are some ideas to get you started:
+![About](./assets/about-life.svg?v=1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Stack](./assets/stack.svg?v=1)
+
+![ID](./assets/id-dashboard.svg?v=1)
+
+</div>
+
+## Projects
+
+| Project | What it does | Tech | Link |
+| --- | --- | --- | --- |
+| **Nifty 50 Next Day Price Prediction** | Machine learning model that analyzes historical Nifty 50 data to predict future closing prices using data analysis and predictive modeling techniques. | Python, Machine Learning | [Repository](https://github.com/Fardin1011/Nifty_50_Next_Day-Price-Prediction) |
+| **IPL Data Analysis** | Explores IPL cricket data to identify trends, compare team performances and visualize match statistics. | Python, Pandas, Matplotlib, Seaborn | [Repository](https://github.com/Fardin1011/IPL_capstone_project) |
+| **Insurance Cost Prediction Using Linear Regression** | Predicts insurance costs from input features, including data preprocessing, model training and performance evaluation. | Machine Learning, Linear Regression | [Repository](https://github.com/Fardin1011/ML-Projects) |
+
+<div align="center">
+
+![Connect](./assets/connect.svg?v=1)
+
+[**LinkedIn**](https://www.linkedin.com/in/fardin-siddiquee-592006334) · [**Instagram**](https://www.instagram.com/fardeensiddique687) · [**GitHub**](https://github.com/Fardin1011)
+
+</div>
