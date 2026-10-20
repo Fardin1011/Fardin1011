@@ -1,12 +1,12 @@
 <div align="center">
 
-![Intro](./hero.svg?v=2)
+![Intro](./hero-green.svg)
 
-![About](./about-life.svg?v=2)
+![About](./about-life-green.svg)
 
-![Stack](./stack.svg?v=2)
+![Stack](./stack-green.svg)
 
-![ID](./id-dashboard.svg?v=2)
+![ID](./id-dashboard-green.svg)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-![Connect](./connect.svg?v=2)
+![Connect](./connect-green.svg)
 
 [**LinkedIn**](https://www.linkedin.com/in/fardin-siddiquee-592006334) · [**Instagram**](https://www.instagram.com/fardeensiddique687) · [**GitHub**](https://github.com/Fardin1011)
 
